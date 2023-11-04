@@ -10,12 +10,12 @@
 }
 @font-face {
   font-family: 'raleway_f';
-  src: url('./fonts/raleway-regular.woff2');
+  src: url('../fonts/raleway-regular.woff2');
   font-weight: 400;
 }
 @font-face {
   font-family: 'raleway_f';
-  src: url('./fonts/raleway-black.woff2');
+  src: url('../fonts/raleway-black.woff2');
   font-weight: 900;
 }
 body {
@@ -32,7 +32,7 @@ body {
   z-index: 100;
   width: 100%;
   height: calc(var(--index) * 10);
-  background-image: url(/html/img/ground.png);
+  background-image: url(../img/ground.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
