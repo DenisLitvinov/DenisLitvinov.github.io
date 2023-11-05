@@ -13,12 +13,12 @@
 }
 @font-face {
   font-family: raleway_c;
-  src: url(/html/fonts/raleway-v22-cyrillic-300.woff2);
+  src: url(./fonts/raleway-v22-cyrillic-300.woff2);
   font-size: 300;
 }
 @font-face {
   font-family: raleway_c;
-  src: url(/html/fonts/raleway-v22-cyrillic-100.woff2);
+  src: url(./fonts/raleway-v22-cyrillic-100.woff2);
   font-size: 100;
 }
 body {
